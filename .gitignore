@@ -1,0 +1,24 @@
+# Keil build output folders
+Objects/
+Listings/
+Debug/
+
+# Keil output files
+*.axf
+*.hex
+*.bin
+*.o
+*.lst
+*.map
+*.crf
+*.d
+*.lnp
+*.dep
+
+# Keil GUI configuration files
+*.uvgui.*
+
+# Backup files
+*~
+*.bak
+
