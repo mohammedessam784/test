@@ -75,6 +75,8 @@ void MCAL_EEPROM_massErase(void)
 	EEPROM_EEOFFSET = 0x00000000;
 }
 
+
+
 void MCAL_EEPROM_write(uint16_t *address, float* data, uint8_t length)
 {
 	uint8_t i =0;
